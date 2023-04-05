@@ -1,0 +1,63 @@
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 20px;
+}
+p{
+    color: dimgray;
+}
+body{
+    
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.color-koro{
+    color: red;
+}
+.top-banner{
+
+    background-image: url(personal-website/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+
+    height: 500px;
+    padding-bottom: 0px;
+}
+.link-button{
+
+    color: white;
+    font-weight: bold;
+    text-decoration: none; /*button er niche kono underline thakbe na*/
+    background-image: linear-gradient(lightSalmon,tomato);
+    padding: 10px 20px;
+    border-radius: 10px; /*rectangle er kona gula chokha thakbe na*/
+
+}
+.half-width{
+    
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.half-width img{
+
+    width: 90%;
+}
+.vag-korbe{
+    box-shadow: 10px 10px 40px cyan ;
+    border-radius: 10px;
+    height: 50%;
+    background-color: skyblue;
+    
+}
+.edu{
+    /*background-image: url("personal-website/biography-bg.png");
+    background-repeat: no-repeat;*/
+}
